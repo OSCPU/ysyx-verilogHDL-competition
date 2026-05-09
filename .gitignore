@@ -1,0 +1,27 @@
+*.*
+*
+!*/
+
+!.gitignore
+
+# Makefiles
+!Makefile
+!*.mk
+
+# C/C++ source files
+!*.h
+!*.hpp
+!*.c
+!*.cc
+!*.cpp
+
+# Verilog Files
+!*.v
+
+# Python files
+!*.py
+
+# NXDC files
+!*.nxdc
+
+build/
